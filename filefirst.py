@@ -1,3 +1,1 @@
-print"hello"
-for(){
-｝wehile(){}
+22222
