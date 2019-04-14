@@ -1,3 +1,3 @@
 print"hello"
 for(){
-｝
+｝wehile(){}
